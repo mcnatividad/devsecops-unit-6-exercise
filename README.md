@@ -6,6 +6,8 @@
 <h1 align="center">
   Gatsby Minimal Starter
 </h1>
+<h2 align="center"><a href="https://mcnatividad.github.io/devsecops-unit-6-exercise">https://mcnatividad.github.io/devsecops-unit-6-exercise</a></h2>
+
 
 ## 🚀 Quick start
 
